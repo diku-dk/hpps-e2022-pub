@@ -29,7 +29,7 @@ mandatory assignments.
 
 **This course website** is used for handing out material.
 
-**Discord** can be used for asking questions. (Invite link TBA)
+**Discord** can be used for asking questions. ([Invite link](https://discord.gg/rEs865W5SA))
 
 **Absalon** is used for handing in assignments and for course announcements.
 
