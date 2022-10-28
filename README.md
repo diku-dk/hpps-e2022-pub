@@ -38,9 +38,10 @@ The textbooks are as follows:
 
 * **JG:** [Modern C](https://modernc.gforge.inria.fr/) ([CC-licensed PDF](https://hal.inria.fr/hal-02383654/document))
 
-* **HPPS:** [HPPS course notes](notes.pdf) - **these will be updated as the
-  course progresses, so make sure to regularly check that you have
-  the newest version**
+* **HPPS:** [HPPS course notes](https://github.com/diku-dk/hpps-notes)
+  [PDF](https://github.com/diku-dk/hpps-notes/releases/download/latest/notes.pdf) -
+  **these will be updated as the course progresses, so make sure to
+  regularly check that you have the newest version**
 
 ## Schedule
 
