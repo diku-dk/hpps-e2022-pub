@@ -185,13 +185,13 @@ that lists expected reading and other material.  Direct links below.
 
 * **Week 1**
 
-  * Tuesday lecture 22/11
+  * [Tuesday lecture 22/11](material/1-l-1)
 
-  * Thursday morning exercises 24/11
+  * [Thursday morning exercises 24/11](material/1-e-1)
 
-  * Thursday lecture 24/11
+  * [Thursday lecture 24/11](material/1-l-2)
 
-  * Thursday afternoon exercises 24/11
+  * [Thursday afternoon exercises 24/11](material/1-e-2)
 
 * **Week 2**
 
