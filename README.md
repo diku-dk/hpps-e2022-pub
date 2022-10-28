@@ -87,31 +87,31 @@ material and ideas.
 
 ### A1
 
-* **Handout:** 25/11
+* **Handout:** 24/11
 
-* **Handin deadline:** 3/12
+* **Handin deadline:** 4/12
 
 ### A2
 
-* **Handout:** 9/12
+* **Handout:** 8/12
 
-* **Handin deadline:** 17/12
+* **Handin deadline:** 18/12
 
 ### A3
 
-* **Handout:** 16/12
+* **Handout:** 15/12
 
 * **Handin deadline:** 22/12
 
 ### A4
 
-* **Handout:** 21/12
+* **Handout:** 22/12
 
-* **Handin deadline:** 7/1
+* **Handin deadline:** 8/1
 
 ### A5
 
-* **Handout:** 6/1
+* **Handout:** 5/1
 
 * **Handin deadline:** 14/1
 
@@ -156,12 +156,22 @@ If you prefer an IDE see the [VS Code installation and setup guide](VSCode.md).
 
 The teachers are
 
-* Troels Henriksen (<athas@sigkill.dk>)
+* Troels Henriksen <athas@sigkill.dk>
 * David Gray Marchant <david.marchant@di.ku.dk>
 
 The TAs are
 
-* TBA
+* Axel Højmark <axho@di.ku.dk>
+
+* Gunnar Magnussen <vcd948@alumni.ku.dk>
+
+* Mikkel Willén <bmq419@alumni.ku.dk>
+
+* Jacob Christian Herbst <mwr148@alumni.ku.dk>
+
+* Jonatan Ruiz-Molsgaard <tnc197@alumni.ku.dk>
+
+* Rasmus Damgaard Nielsen <rasmus.damgaard@nbi.ku.dk>
 
 ## Exam format
 
@@ -175,31 +185,73 @@ that lists expected reading and other material.  Direct links below.
 
 * **Week 1**
 
-  * TBA
+  * Tuesday lecture 22/11
+
+  * Thursday morning exercises 24/11
+
+  * Thursday lecture 24/11
+
+  * Thursday afternoon exercises 24/11
 
 * **Week 2**
 
-  * TBA
+  * Tuesday lecture 29/11
+
+  * Thursday morning exercises 1/12
+
+  * Thursday lecture 1/12
+
+  * Thursday afternoon exercises 1/12
 
 * **Week 3**
 
-  * TBA
+  * Tuesday lecture 6/12
+
+  * Thursday morning exercises 8/12
+
+  * Thursday lecture 8/12
+
+  * Thursday afternoon exercises 8/12
 
 * **Week 4**
 
-  * TBA
+  * Tuesday lecture 13/12
+
+  * Thursday morning exercises 15/12
+
+  * Thursday lecture 15/12
+
+  * Thursday afternoon exercises 15/12
 
 * **Week 5**
 
-  * TBA
+  * Tuesday lecture 20/12
+
+  * Thursday morning exercises 22/12
+
+  * Thursday lecture 22/12
+
+  * Thursday afternoon exercises 22/12
 
 * **Week 6**
 
-  * TBA
+  * Tuesday lecture 2/1
+
+  * Thursday morning exercises 4/1
+
+  * Thursday lecture 4/1
+
+  * Thursday afternoon exercises 4/1
 
 * **Week 7**
 
-  * TBA
+  * Tuesday lecture 9/1
+
+  * Thursday morning exercises 11/1
+
+  * Thursday lecture 11/1
+
+  * Thursday afternoon exercises 11/1
 
 * **Week 8**
 
