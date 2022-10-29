@@ -163,7 +163,7 @@ The TAs are
 
 * Axel Højmark <axho@di.ku.dk>
 
-* Gunnar Magnussen <vcd948@alumni.ku.dk>
+* Gunnar Magnussen <gma@di.ku.dk>
 
 * Mikkel Willén <bmq419@alumni.ku.dk>
 
