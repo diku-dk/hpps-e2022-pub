@@ -161,17 +161,17 @@ The teachers are
 
 The TAs are
 
-* Axel Højmark <axho@di.ku.dk>
+* **Hold 1**: Axel Højmark <axho@di.ku.dk>
 
-* Gunnar Magnussen <gma@di.ku.dk>
+* **Hold 2**: Gunnar Magnussen <gma@di.ku.dk>
 
-* Mikkel Willén <bmq419@alumni.ku.dk>
+* **Hold 3**: Mikkel Willén <bmq419@alumni.ku.dk>
 
-* Jacob Christian Herbst <mwr148@alumni.ku.dk>
+* **Hold 4**: Jacob Christian Herbst <mwr148@alumni.ku.dk>
 
-* Jonatan Ruiz-Molsgaard <tnc197@alumni.ku.dk>
+* **Hold 5**: Jonatan Ruiz-Molsgaard <tnc197@alumni.ku.dk>
 
-* Rasmus Damgaard Nielsen <rasmus.damgaard@nbi.ku.dk>
+* **Hold 6**: Rasmus Damgaard Nielsen <rasmus.damgaard@nbi.ku.dk>
 
 ## Exam format
 
