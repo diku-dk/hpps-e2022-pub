@@ -207,11 +207,11 @@ that lists expected reading and other material.  Direct links below.
 
   * [Tuesday lecture 6/12](material/3-l-1)
 
-  * Thursday morning exercises 8/12
+  * [Thursday morning exercises 8/12](material/3-e-1)
 
   * [Thursday lecture 8/12](material/3-l-2)
 
-  * Thursday afternoon exercises 8/12
+  * [Thursday afternoon exercises 8/12](material/3-e-2)
 
 * **Week 4**
 
