@@ -4,5 +4,5 @@
 
 ## Reading
 
-* HPPS 2.1-2.4
+* HPPS 2
 * JG 4-7

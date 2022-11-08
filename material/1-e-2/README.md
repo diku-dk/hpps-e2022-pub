@@ -208,6 +208,17 @@ correct on the different "levels".
 
 http://topps.diku.dk/compsys/integers.html
 
+Next, answer all of the following:
+
+* http://topps.diku.dk/compsys/integers.html#NjdfZmFsc2VfMV8yXzE=
+* http://topps.diku.dk/compsys/integers.html#NjFfZmFsc2VfMV8yXzE=
+* http://topps.diku.dk/compsys/integers.html#MTAzX2ZhbHNlXzFfMl8x
+* http://topps.diku.dk/compsys/integers.html#OTBfZmFsc2VfMV8yXzE=
+* http://topps.diku.dk/compsys/integers.html#MjU1X2ZhbHNlXzFfMF8y
+* http://topps.diku.dk/compsys/integers.html#MTUzX2ZhbHNlXzFfMF8y
+* http://topps.diku.dk/compsys/integers.html#MjE5X2ZhbHNlXzFfMF8x
+* http://topps.diku.dk/compsys/integers.html#OTBfZmFsc2VfMV8wXzE=
+
 ## Integer puzzles
 
 Given the following initialization:
