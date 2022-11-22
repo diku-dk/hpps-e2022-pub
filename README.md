@@ -91,6 +91,8 @@ material and ideas.
 
 * **Handin deadline:** 4/12
 
+[Text](assignments/a1/a1.pdf), [code](assignments/a1/a1-handout.tar.gz)
+
 ### A2
 
 * **Handout:** 8/12
