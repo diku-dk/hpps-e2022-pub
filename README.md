@@ -68,7 +68,7 @@ share a single room:
 
 ### Friday
 
-TBD
+* **Assignment café** 13:00-15:00 (Lille UP-1, DIKU), to get help with assignments.
 
 ## Assignments
 
@@ -119,7 +119,10 @@ material and ideas.
 
 ## Study café
 
-TBD
+Every Friday in from 13:00-15:00 you can attend the assignment café to
+get help with the assignments.  The cafés are held in Lille UP-1 at
+DIKU (except the first one after New Years, which is held somewhere
+else due to a booking conflict).
 
 ## Exam qualification
 
