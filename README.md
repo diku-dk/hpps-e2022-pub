@@ -219,33 +219,33 @@ that lists expected reading and other material.  Direct links below.
 
   * [Thursday morning exercises 15/12](material/4-e-1)
 
-  * Thursday lecture 15/12
+  * [Thursday lecture 15/12](material/4-l-2)
 
-  * Thursday afternoon exercises 15/12
+  * [Thursday afternoon exercises 15/12](material/4-e-2)
 
 * **Week 5**
 
-  * Tuesday lecture 20/12
+  * [Tuesday lecture 20/12](material/5-l-1)
 
-  * Thursday morning exercises 22/12
+  * [Thursday morning exercises 22/12](material/5-l-1)
 
-  * Thursday lecture 22/12
+  * [Thursday lecture 22/12](material/5-l-2)
 
-  * Thursday afternoon exercises 22/12
+  * [Thursday afternoon exercises 22/12](material/5-e-2)
 
 * **Week 6**
 
-  * Tuesday lecture 2/1
+  * [Tuesday lecture 2/1](material/6-l-1)
 
-  * Thursday morning exercises 4/1
+  * [Thursday morning exercises 4/1](material/6-e-1)
 
-  * Thursday lecture 4/1
+  * [Thursday lecture 4/1](material/6-l-2)
 
-  * Thursday afternoon exercises 4/1
+  * [Thursday afternoon exercises 4/1](material/6-e-2)
 
 * **Week 7**
 
-  * Tuesday lecture 9/1
+  * [Tuesday lecture 9/1](material/7-l-1)
 
   * Thursday morning exercises 11/1
 
