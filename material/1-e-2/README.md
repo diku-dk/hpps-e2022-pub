@@ -72,7 +72,7 @@ learn it from the beginning: _always check your inputs._
 
 ## Multiple input formats
 
-Modify the `roll` program developed at the lecture to support `dN` as
+Modify the `roll` program from the handout to support `dN` as
 a shorthand for `1dN`.  Hint: if one `sscanf()` fails, try another.
 
 ## Bits, libraries, and tests in C (A1 warmup)
