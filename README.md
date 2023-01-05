@@ -68,7 +68,7 @@ share a single room:
 
 ### Friday
 
-* **Assignment café** 13:00-15:00 (Lille UP-1, DIKU), to get help with assignments.
+* **Assignment café** 13:00-15:00 (Lille UP-1, DIKU), to get help with assignments.  **Note:** held in Aud 05 on 6th of January.
 
 ## Assignments
 
