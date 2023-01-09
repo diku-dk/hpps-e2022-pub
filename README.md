@@ -137,9 +137,9 @@ of the first four assignment.
 
 ## Exam date
 
-The exam is a take-home exam held in January.  It has an estimated
-workload of 20 hours.  It will involve practical programming and
-performance analysis of programs.
+The exam is a take-home exam held from the 20th to the 25th of
+January.  It has an estimated workload of 20 hours.  It will involve
+practical programming and performance analysis of programs.
 
 ## Languages
 
@@ -261,7 +261,3 @@ that lists expected reading and other material.  Direct links below.
   * Thursday lecture 11/1
 
   * Thursday afternoon exercises 11/1
-
-* **Week 8**
-
-  * Take-home exam (precise days TBA).
