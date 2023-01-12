@@ -13,7 +13,7 @@ a loop that produces a bunch of pixels, and that program needs to run
 faster.  It is not at all uncommon to be asked to optimise a program
 where you do not fully understand what it computes.
 
-[If you are using macOS, make sure to read this.](macos-openmp.md)
+[If you are using macOS, make sure to read this.](OpenMP/macos-openmp.md)
 
 ## Optimising [mandelbrot.c](OpenMP/src/mandelbrot.c)
 
